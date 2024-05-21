@@ -1,0 +1,200 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol type="marker" name="1" tags="north-arrow" force_rhr="0" frame_rate="10" alpha="1" clip_to_extent="1" is_animated="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" locked="0" pass="0" id="{f20636d0-6269-4982-9337-b275d71af153}" class="SvgMarker">
+        <Option type="Map">
+          <Option value="0" type="QString" name="angle"/>
+          <Option value="255,0,0,255,rgb:1,0,0,1" type="QString" name="color"/>
+          <Option value="0" type="QString" name="fixedAspectRatio"/>
+          <Option value="1" type="QString" name="horizontal_anchor_point"/>
+          <Option value="base64:PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cgo8ZGVmcz4KPC9kZWZzPgo8ZyBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDA7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IG5vbmU7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuNDA2NTkzNDA2NTkzNDAxNiAxLjQwNjU5MzQwNjU5MzQwMTYpIHNjYWxlKDIuODEgMi44MSkiID4KCTxwYXRoIGQ9Ik0gNDUgOC41NTUgbCAxMC44NTUgMjAuNTIzIGMgLTMuNjEgLTEuMTg5IC03LjIzNiAtMS43ODggLTEwLjg1NSAtMS43ODggYyAtMy42MTkgMCAtNy4yNDUgMC41OTggLTEwLjg1NSAxLjc4OCBMIDQ1IDguNTU1IE0gNDUgMCBMIDI0LjcyMyAzOC4zMzcgQyAzMS40ODIgMzMuNjQgMzguMjQxIDMxLjI5MSA0NSAzMS4yOTEgcyAxMy41MTggMi4zNDkgMjAuMjc3IDcuMDQ2IEwgNDUgMCBMIDQ1IDAgeiIgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAxOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiByZ2IoMCwwLDApOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgoJPHBhdGggZD0iTSA0NSA0MC42MzUgYyAxMi41MDcgMCAyMi42ODIgMTAuMTc1IDIyLjY4MiAyMi42ODIgUyA1Ny41MDcgODYgNDUgODYgUyAyMi4zMTggNzUuODI1IDIyLjMxOCA2My4zMTggUyAzMi40OTMgNDAuNjM1IDQ1IDQwLjYzNSBNIDQ1IDM2LjYzNSBjIC0xNC43MzYgMCAtMjYuNjgyIDExLjk0NiAtMjYuNjgyIDI2LjY4MiBTIDMwLjI2NCA5MCA0NSA5MCBzIDI2LjY4MiAtMTEuOTQ2IDI2LjY4MiAtMjYuNjgyIFMgNTkuNzM2IDM2LjYzNSA0NSAzNi42MzUgTCA0NSAzNi42MzUgeiIgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAxOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiByZ2IoMCwwLDApOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgoJPHBvbHlnb24gcG9pbnRzPSI1MC41OSw1MS42NyA1MC41OSw2Ny4yNSAzOC40Nyw1MS42NyAzNS40MSw1MS42NyAzNS40MSw3NS4wNyAzOS40MSw3NS4wNyAzOS40MSw1OS4zOSA1MS42OCw3NS4xNyA1NC41OSw3NS4xNyA1NC41OSw1MS42NyAiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgIG1hdHJpeCgxIDAgMCAxIDAgMCkgIi8+CjwvZz4KPC9zdmc+" type="QString" name="name"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,255,rgb:0.13725490196078433,0.13725490196078433,0.13725490196078433,1" type="QString" name="outline_color"/>
+          <Option value="0" type="QString" name="outline_width"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option name="parameters"/>
+          <Option value="diameter" type="QString" name="scale_method"/>
+          <Option value="10" type="QString" name="size"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="size_map_unit_scale"/>
+          <Option value="MM" type="QString" name="size_unit"/>
+          <Option value="1" type="QString" name="vertical_anchor_point"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" name="2" tags="north-arrow" force_rhr="0" frame_rate="10" alpha="1" clip_to_extent="1" is_animated="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" locked="0" pass="0" id="{fd6c6880-67ae-4d15-b51b-042a1749c4cd}" class="SvgMarker">
+        <Option type="Map">
+          <Option value="0" type="QString" name="angle"/>
+          <Option value="255,0,0,255,rgb:1,0,0,1" type="QString" name="color"/>
+          <Option value="0" type="QString" name="fixedAspectRatio"/>
+          <Option value="1" type="QString" name="horizontal_anchor_point"/>
+          <Option value="base64:PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cgo8ZGVmcz4KPC9kZWZzPgo8ZyBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDA7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IG5vbmU7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuNDA2NTkzNDA2NTkzNDAxNiAxLjQwNjU5MzQwNjU5MzQwMTYpIHNjYWxlKDIuODEgMi44MSkiID4KCTxwYXRoIGQ9Ik0gNDUgNCBjIDIyLjYwNyAwIDQxIDE4LjM5MyA0MSA0MSBTIDY3LjYwNyA4NiA0NSA4NiBTIDQgNjcuNjA3IDQgNDUgUyAyMi4zOTMgNCA0NSA0IE0gNDUgMCBDIDIwLjE0NyAwIDAgMjAuMTQ3IDAgNDUgcyAyMC4xNDcgNDUgNDUgNDUgcyA0NSAtMjAuMTQ3IDQ1IC00NSBTIDY5Ljg1MyAwIDQ1IDAgTCA0NSAwIHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNDUgMzQuMTQzIGwgOS40NTggMjguMTE5IGwgLTguMjcxIC0yLjU3MSBMIDQ1IDU5LjMyMiBsIC0xLjE4NyAwLjM2OSBsIC04LjI3MSAyLjU3MSBMIDQ1IDM0LjE0MyBNIDQ1IDIxLjU5NiBMIDI5LjI1NiA2OC40MDQgTCA0NSA2My41MSBsIDE1Ljc0NCA0Ljg5NCBMIDQ1IDIxLjU5NiBMIDQ1IDIxLjU5NiB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+Cgk8cGF0aCBkPSJNIDc3LjY1OSA0Mi42NTkgYyAtMS4yOTMgMCAtMi4zNDEgMS4wNDggLTIuMzQxIDIuMzQxIHMgMS4wNDggMi4zNDEgMi4zNDEgMi4zNDEgUyA4MCA0Ni4yOTMgODAgNDUgUyA3OC45NTIgNDIuNjU5IDc3LjY1OSA0Mi42NTkgTCA3Ny42NTkgNDIuNjU5IHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gMTIuMzQxIDQyLjY1OSBDIDExLjA0OCA0Mi42NTkgMTAgNDMuNzA3IDEwIDQ1IHMgMS4wNDggMi4zNDEgMi4zNDEgMi4zNDEgcyAyLjM0MSAtMS4wNDggMi4zNDEgLTIuMzQxIFMgMTMuNjMzIDQyLjY1OSAxMi4zNDEgNDIuNjU5IEwgMTIuMzQxIDQyLjY1OSB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+Cgk8cGF0aCBkPSJNIDQ1IDEwIGMgLTEuMjkzIDAgLTIuMzQxIDEuMDQ4IC0yLjM0MSAyLjM0MSBzIDEuMDQ4IDIuMzQxIDIuMzQxIDIuMzQxIHMgMi4zNDEgLTEuMDQ4IDIuMzQxIC0yLjM0MSBTIDQ2LjI5MyAxMCA0NSAxMCBMIDQ1IDEwIHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNDUgNzUuMzE5IGMgLTEuMjkzIDAgLTIuMzQxIDEuMDQ4IC0yLjM0MSAyLjM0MSBTIDQzLjcwNyA4MCA0NSA4MCBzIDIuMzQxIC0xLjA0OCAyLjM0MSAtMi4zNDEgUyA0Ni4yOTMgNzUuMzE5IDQ1IDc1LjMxOSBMIDQ1IDc1LjMxOSB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CjwvZz4KPC9zdmc+" type="QString" name="name"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,255,rgb:0.13725490196078433,0.13725490196078433,0.13725490196078433,1" type="QString" name="outline_color"/>
+          <Option value="0" type="QString" name="outline_width"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option name="parameters"/>
+          <Option value="diameter" type="QString" name="scale_method"/>
+          <Option value="10" type="QString" name="size"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="size_map_unit_scale"/>
+          <Option value="MM" type="QString" name="size_unit"/>
+          <Option value="1" type="QString" name="vertical_anchor_point"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" name="3" tags="north-arrow" force_rhr="0" frame_rate="10" alpha="1" clip_to_extent="1" is_animated="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" locked="0" pass="0" id="{c7371372-66be-4733-8fe4-f32e937c8f1e}" class="SvgMarker">
+        <Option type="Map">
+          <Option value="0" type="QString" name="angle"/>
+          <Option value="255,0,0,255,rgb:1,0,0,1" type="QString" name="color"/>
+          <Option value="0" type="QString" name="fixedAspectRatio"/>
+          <Option value="1" type="QString" name="horizontal_anchor_point"/>
+          <Option value="base64:PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cgo8ZGVmcz4KPC9kZWZzPgo8ZyBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDA7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IG5vbmU7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuNDA2NTkzNDA2NTkzNDAxNiAxLjQwNjU5MzQwNjU5MzQwMTYpIHNjYWxlKDIuODEgMi44MSkiID4KCTxwYXRoIGQ9Ik0gNDUgNCBjIDIyLjYwNyAwIDQxIDE4LjM5MyA0MSA0MSBTIDY3LjYwNyA4NiA0NSA4NiBTIDQgNjcuNjA3IDQgNDUgUyAyMi4zOTMgNCA0NSA0IE0gNDUgMCBDIDIwLjE0NyAwIDAgMjAuMTQ3IDAgNDUgcyAyMC4xNDcgNDUgNDUgNDUgcyA0NSAtMjAuMTQ3IDQ1IC00NSBTIDY5Ljg1MyAwIDQ1IDAgTCA0NSAwIHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNzcuNjU5IDQyLjY1OSBjIC0xLjI5MyAwIC0yLjM0MSAxLjA0OCAtMi4zNDEgMi4zNDEgcyAxLjA0OCAyLjM0MSAyLjM0MSAyLjM0MSBTIDgwIDQ2LjI5MyA4MCA0NSBTIDc4Ljk1MiA0Mi42NTkgNzcuNjU5IDQyLjY1OSBMIDc3LjY1OSA0Mi42NTkgeiIgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAxOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiByZ2IoMCwwLDApOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgoJPHBhdGggZD0iTSAxMi4zNDEgNDIuNjU5IEMgMTEuMDQ4IDQyLjY1OSAxMCA0My43MDcgMTAgNDUgcyAxLjA0OCAyLjM0MSAyLjM0MSAyLjM0MSBzIDIuMzQxIC0xLjA0OCAyLjM0MSAtMi4zNDEgUyAxMy42MzMgNDIuNjU5IDEyLjM0MSA0Mi42NTkgTCAxMi4zNDEgNDIuNjU5IHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNDUgMTAgYyAtMS4yOTMgMCAtMi4zNDEgMS4wNDggLTIuMzQxIDIuMzQxIHMgMS4wNDggMi4zNDEgMi4zNDEgMi4zNDEgcyAyLjM0MSAtMS4wNDggMi4zNDEgLTIuMzQxIFMgNDYuMjkzIDEwIDQ1IDEwIEwgNDUgMTAgeiIgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAxOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiByZ2IoMCwwLDApOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgoJPHBhdGggZD0iTSA0NSA3NS4zMTkgYyAtMS4yOTMgMCAtMi4zNDEgMS4wNDggLTIuMzQxIDIuMzQxIFMgNDMuNzA3IDgwIDQ1IDgwIHMgMi4zNDEgLTEuMDQ4IDIuMzQxIC0yLjM0MSBTIDQ2LjI5MyA3NS4zMTkgNDUgNzUuMzE5IEwgNDUgNzUuMzE5IHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNDUgNTkuMjMxIGMgLTcuNDE5IDAgLTEzLjQ1NSAtNi4wMzYgLTEzLjQ1NSAtMTMuNDU1IGMgMCAtNy44ODMgNy40NiAtMTguMTg1IDExLjkwNyAtMjMuNjI1IEwgNDUgMjAuMjU3IGwgMS41NDkgMS44OTUgYyA0LjQ0NiA1LjQzOSAxMS45MDYgMTUuNzQyIDExLjkwNiAyMy42MjUgQyA1OC40NTUgNTMuMTk1IDUyLjQxOSA1OS4yMzEgNDUgNTkuMjMxIHogTSA0NSAyNi42MjggYyAtNS45NTQgNy42ODUgLTkuNDU1IDE0LjczOCAtOS40NTUgMTkuMTQ4IGMgMCA1LjIxNCA0LjI0MiA5LjQ1NSA5LjQ1NSA5LjQ1NSBjIDUuMjE0IDAgOS40NTUgLTQuMjQxIDkuNDU1IC05LjQ1NSBDIDU0LjQ1NSA0MS4zNjcgNTAuOTU0IDM0LjMxMyA0NSAyNi42MjggeiIgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAxOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiByZ2IoMCwwLDApOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgoJPHBhdGggZD0iTSA0NSA0Mi45ODEgYyAxLjExNCAwIDIuMDE5IDAuOTA2IDIuMDE5IDIuMDE5IFMgNDYuMTE0IDQ3LjAxOSA0NSA0Ny4wMTkgUyA0Mi45ODEgNDYuMTE0IDQyLjk4MSA0NSBTIDQzLjg4NiA0Mi45ODEgNDUgNDIuOTgxIE0gNDUgMzkuOTgxIGMgLTIuNzcyIDAgLTUuMDE5IDIuMjQ3IC01LjAxOSA1LjAxOSBzIDIuMjQ3IDUuMDE5IDUuMDE5IDUuMDE5IHMgNS4wMTkgLTIuMjQ3IDUuMDE5IC01LjAxOSBTIDQ3Ljc3MiAzOS45ODEgNDUgMzkuOTgxIEwgNDUgMzkuOTgxIHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KPC9nPgo8L3N2Zz4=" type="QString" name="name"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,255,rgb:0.13725490196078433,0.13725490196078433,0.13725490196078433,1" type="QString" name="outline_color"/>
+          <Option value="0" type="QString" name="outline_width"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option name="parameters"/>
+          <Option value="diameter" type="QString" name="scale_method"/>
+          <Option value="10" type="QString" name="size"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="size_map_unit_scale"/>
+          <Option value="MM" type="QString" name="size_unit"/>
+          <Option value="1" type="QString" name="vertical_anchor_point"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" name="4" tags="north-arrow" force_rhr="0" frame_rate="10" alpha="1" clip_to_extent="1" is_animated="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" locked="0" pass="0" id="{c97f032a-ee34-4d97-ab55-958a092b0ebb}" class="SvgMarker">
+        <Option type="Map">
+          <Option value="0" type="QString" name="angle"/>
+          <Option value="255,0,0,255,rgb:1,0,0,1" type="QString" name="color"/>
+          <Option value="0" type="QString" name="fixedAspectRatio"/>
+          <Option value="1" type="QString" name="horizontal_anchor_point"/>
+          <Option value="base64:PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cgo8ZGVmcz4KPC9kZWZzPgo8ZyBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDA7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IG5vbmU7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuNDA2NTkzNDA2NTkzNDAxNiAxLjQwNjU5MzQwNjU5MzQwMTYpIHNjYWxlKDIuODEgMi44MSkiID4KCTxwYXRoIGQ9Ik0gNDUgNCBjIDIyLjYwNyAwIDQxIDE4LjM5MyA0MSA0MSBTIDY3LjYwNyA4NiA0NSA4NiBTIDQgNjcuNjA3IDQgNDUgUyAyMi4zOTMgNCA0NSA0IE0gNDUgMCBDIDIwLjE0NyAwIDAgMjAuMTQ3IDAgNDUgcyAyMC4xNDcgNDUgNDUgNDUgcyA0NSAtMjAuMTQ3IDQ1IC00NSBTIDY5Ljg1MyAwIDQ1IDAgTCA0NSAwIHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNzcuNjU5IDQyLjY1OSBjIC0xLjI5MyAwIC0yLjM0MSAxLjA0OCAtMi4zNDEgMi4zNDEgcyAxLjA0OCAyLjM0MSAyLjM0MSAyLjM0MSBTIDgwIDQ2LjI5MyA4MCA0NSBTIDc4Ljk1MiA0Mi42NTkgNzcuNjU5IDQyLjY1OSBMIDc3LjY1OSA0Mi42NTkgeiIgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAxOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiByZ2IoMCwwLDApOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgoJPHBhdGggZD0iTSAxMi4zNDEgNDIuNjU5IEMgMTEuMDQ4IDQyLjY1OSAxMCA0My43MDcgMTAgNDUgcyAxLjA0OCAyLjM0MSAyLjM0MSAyLjM0MSBzIDIuMzQxIC0xLjA0OCAyLjM0MSAtMi4zNDEgUyAxMy42MzMgNDIuNjU5IDEyLjM0MSA0Mi42NTkgTCAxMi4zNDEgNDIuNjU5IHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNDUgNzUuMzE5IGMgLTEuMjkzIDAgLTIuMzQxIDEuMDQ4IC0yLjM0MSAyLjM0MSBTIDQzLjcwNyA4MCA0NSA4MCBzIDIuMzQxIC0xLjA0OCAyLjM0MSAtMi4zNDEgUyA0Ni4yOTMgNzUuMzE5IDQ1IDc1LjMxOSBMIDQ1IDc1LjMxOSB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+Cgk8cGF0aCBkPSJNIDUwLjg5NSAxNy4zOTIgTCA0NSA2LjI0NyBsIC01Ljg5NSAxMS4xNDUgYyAwLjczNyAtMC41MTIgMS40NzQgLTAuOTI4IDIuMjExIC0xLjI0OCBjIDAuNDkxIC0wLjIxMyAwLjk4MiAtMC4zODQgMS40NzQgLTAuNTEyIGMgMC4wNyAtMC4wMTggMC4xNCAtMC4wMjkgMC4yMTEgLTAuMDQ2IFYgNDUgaCA0IFYgMTUuNTg2IEMgNDguMjk4IDE1Ljg5MiA0OS41OTcgMTYuNDkgNTAuODk1IDE3LjM5MiB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+Cgk8cGF0aCBkPSJNIDUwLjg0OSAzNS42OTUgdiA1LjQ2OSBDIDUxLjU3NCA0Mi4yNjcgNTIgNDMuNTg0IDUyIDQ1IGMgMCAzLjg2IC0zLjE0IDcgLTcgNyBzIC03IC0zLjE0IC03IC03IGMgMCAtMS40MTYgMC40MjYgLTIuNzMzIDEuMTUxIC0zLjgzNiB2IC01LjQ2OSBDIDM2LjA2IDM3LjY0MyAzNCA0MS4wNzcgMzQgNDUgYyAwIDYuMDc1IDQuOTI1IDExIDExIDExIHMgMTEgLTQuOTI1IDExIC0xMSBDIDU2IDQxLjA3NyA1My45NCAzNy42NDMgNTAuODQ5IDM1LjY5NSB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CjwvZz4KPC9zdmc+" type="QString" name="name"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,255,rgb:0.13725490196078433,0.13725490196078433,0.13725490196078433,1" type="QString" name="outline_color"/>
+          <Option value="0" type="QString" name="outline_width"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option name="parameters"/>
+          <Option value="diameter" type="QString" name="scale_method"/>
+          <Option value="10" type="QString" name="size"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="size_map_unit_scale"/>
+          <Option value="MM" type="QString" name="size_unit"/>
+          <Option value="1" type="QString" name="vertical_anchor_point"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" name="5" tags="north-arrow" force_rhr="0" frame_rate="10" alpha="1" clip_to_extent="1" is_animated="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" locked="0" pass="0" id="{80abb52f-ed9f-4dc7-84a3-4f7ad6b47bc7}" class="SvgMarker">
+        <Option type="Map">
+          <Option value="0" type="QString" name="angle"/>
+          <Option value="255,0,0,255,rgb:1,0,0,1" type="QString" name="color"/>
+          <Option value="0" type="QString" name="fixedAspectRatio"/>
+          <Option value="1" type="QString" name="horizontal_anchor_point"/>
+          <Option value="base64:PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cgo8ZGVmcz4KPC9kZWZzPgo8ZyBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDA7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IG5vbmU7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuNDA2NTkzNDA2NTkzNDAxNiAxLjQwNjU5MzQwNjU5MzQwMTYpIHNjYWxlKDIuODEgMi44MSkiID4KCTxwYXRoIGQ9Ik0gNDUgNCBjIDIyLjYwNyAwIDQxIDE4LjM5MyA0MSA0MSBTIDY3LjYwNyA4NiA0NSA4NiBTIDQgNjcuNjA3IDQgNDUgUyAyMi4zOTMgNCA0NSA0IE0gNDUgMCBDIDIwLjE0NyAwIDAgMjAuMTQ3IDAgNDUgcyAyMC4xNDcgNDUgNDUgNDUgcyA0NSAtMjAuMTQ3IDQ1IC00NSBTIDY5Ljg1MyAwIDQ1IDAgTCA0NSAwIHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNzcuNjU5IDQyLjY1OSBjIC0xLjI5MyAwIC0yLjM0MSAxLjA0OCAtMi4zNDEgMi4zNDEgcyAxLjA0OCAyLjM0MSAyLjM0MSAyLjM0MSBTIDgwIDQ2LjI5MyA4MCA0NSBTIDc4Ljk1MiA0Mi42NTkgNzcuNjU5IDQyLjY1OSBMIDc3LjY1OSA0Mi42NTkgeiIgc3R5bGU9InN0cm9rZTogbm9uZTsgc3Ryb2tlLXdpZHRoOiAxOyBzdHJva2UtZGFzaGFycmF5OiBub25lOyBzdHJva2UtbGluZWNhcDogYnV0dDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOyBmaWxsOiByZ2IoMCwwLDApOyBmaWxsLXJ1bGU6IG5vbnplcm87IG9wYWNpdHk6IDE7IiB0cmFuc2Zvcm09IiBtYXRyaXgoMSAwIDAgMSAwIDApICIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgoJPHBhdGggZD0iTSAxMi4zNDEgNDIuNjU5IEMgMTEuMDQ4IDQyLjY1OSAxMCA0My43MDcgMTAgNDUgcyAxLjA0OCAyLjM0MSAyLjM0MSAyLjM0MSBzIDIuMzQxIC0xLjA0OCAyLjM0MSAtMi4zNDEgUyAxMy42MzMgNDIuNjU5IDEyLjM0MSA0Mi42NTkgTCAxMi4zNDEgNDIuNjU5IHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNDUgMzQgYyA2LjA2NSAwIDExIDQuOTM1IDExIDExIHMgLTQuOTM1IDExIC0xMSAxMSBzIC0xMSAtNC45MzUgLTExIC0xMSBTIDM4LjkzNSAzNCA0NSAzNCBNIDQ1IDMwIGMgLTguMjg0IDAgLTE1IDYuNzE2IC0xNSAxNSBzIDYuNzE2IDE1IDE1IDE1IHMgMTUgLTYuNzE2IDE1IC0xNSBTIDUzLjI4NCAzMCA0NSAzMCBMIDQ1IDMwIHoiIHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1taXRlcmxpbWl0OiAxMDsgZmlsbDogcmdiKDAsMCwwKTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyIgdHJhbnNmb3JtPSIgbWF0cml4KDEgMCAwIDEgMCAwKSAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KCTxwYXRoIGQ9Ik0gNDUgNzUuMzE5IGMgLTEuMjkzIDAgLTIuMzQxIDEuMDQ4IC0yLjM0MSAyLjM0MSBTIDQzLjcwNyA4MCA0NSA4MCBzIDIuMzQxIC0xLjA0OCAyLjM0MSAtMi4zNDEgUyA0Ni4yOTMgNzUuMzE5IDQ1IDc1LjMxOSBMIDQ1IDc1LjMxOSB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+Cgk8cGF0aCBkPSJNIDM5LjYzOSAyNy42NjEgTCA0NSAxNy41MjQgbCA1LjM2MiAxMC4xMzcgYyAyLjM3OCAwLjczNSA0LjU0MSAxLjk1MiA2LjM5IDMuNTI3IEwgNDUgOC45NjkgTCAzMy4yNDggMzEuMTg4IEMgMzUuMDk3IDI5LjYxMyAzNy4yNiAyOC4zOTYgMzkuNjM5IDI3LjY2MSB6IiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogMTA7IGZpbGw6IHJnYigwLDAsMCk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHRyYW5zZm9ybT0iIG1hdHJpeCgxIDAgMCAxIDAgMCkgIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CjwvZz4KPC9zdmc+" type="QString" name="name"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,255,rgb:0.13725490196078433,0.13725490196078433,0.13725490196078433,1" type="QString" name="outline_color"/>
+          <Option value="0" type="QString" name="outline_width"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option name="parameters"/>
+          <Option value="diameter" type="QString" name="scale_method"/>
+          <Option value="10" type="QString" name="size"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="size_map_unit_scale"/>
+          <Option value="MM" type="QString" name="size_unit"/>
+          <Option value="1" type="QString" name="vertical_anchor_point"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>

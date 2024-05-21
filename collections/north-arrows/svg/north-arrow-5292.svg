@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<path d="M 45 90 C 20.187 90 0 69.813 0 45 C 0 20.187 20.187 0 45 0 c 24.813 0 45 20.187 45 45 C 90 69.813 69.813 90 45 90 z M 45 6 C 23.495 6 6 23.495 6 45 s 17.495 39 39 39 s 39 -17.495 39 -39 S 66.505 6 45 6 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 52.9 48 H 37.1 c -0.931 0 -1.809 -0.432 -2.376 -1.169 s -0.762 -1.696 -0.524 -2.596 l 7.9 -29.972 c 0.347 -1.317 1.539 -2.235 2.901 -2.235 s 2.554 0.918 2.901 2.235 l 7.9 29.972 c 0.236 0.9 0.043 1.858 -0.525 2.596 C 54.709 47.568 53.831 48 52.9 48 z M 40.993 42 h 8.014 L 45 26.798 L 40.993 42 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 45 77.973 c -1.362 0 -2.554 -0.918 -2.901 -2.235 l -7.9 -29.973 c -0.237 -0.9 -0.043 -1.859 0.524 -2.596 C 35.292 42.432 36.169 42 37.1 42 h 15.8 c 0.931 0 1.809 0.432 2.376 1.169 c 0.568 0.737 0.762 1.696 0.525 2.596 l -7.9 29.973 C 47.554 77.055 46.362 77.973 45 77.973 z M 40.993 48 L 45 63.202 L 49.007 48 H 40.993 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<polygon points="45,14.33 36.92,45 45,45 53.08,45 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+</g>
+</svg>
